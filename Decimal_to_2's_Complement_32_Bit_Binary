@@ -1,4 +1,4 @@
-// Negative decimal to 32 bit binary (2's complement method : works for both positive and negative decimal numbers)
+// Negative decimal to binary (2's complement method : works for both positive and negative decimal numbers)
 
 #include<iostream>
 #include<string>
